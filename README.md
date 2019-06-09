@@ -31,13 +31,13 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [ ] [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** [1:01:26]
 - [ ] [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** [58:53]
 - [ ] [Effective Programs - 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU) by **Rich Hickey** [1:14:51]
-- [ ] [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** [1:10:54]
+- [x] [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** [1:10:54]
 - [ ] [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 - [ ] [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 - [ ] [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
 - [ ] [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** [23:07]
 - [ ] [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=9IPn5Gk_OiM) by **Paolo Perrotta** [36:35]
-- [ ] [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]
+- [x] [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]
 - [ ] [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** [43:46]
 - [ ] [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** [36:00]
 - [ ] [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
@@ -47,8 +47,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 #### Object-Oriented Programming
 
-- [ ] [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** [54:17]
-- [ ] [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
+- [x] [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** [54:17]
+- [x] [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 
 #### Functional Programming
 
@@ -85,13 +85,13 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [ ] [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski** [42:34]
 - [ ] [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch** [1:00:18]
 - [ ] [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** [1:02:30]
-- [ ] [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
+- [x] [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
 - [ ] [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30]
 - [ ] [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04]
 - [ ] [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42]
 - [ ] [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
 - [ ] [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
-- [ ] [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
+- [x] [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** [39:41]
 
 #### Web Development
 
@@ -142,11 +142,11 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #### Computer History
 - [ ] [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 - [ ] [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
-- [ ] [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
+- [x] [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
 - [ ] [The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) by **Grady Booch** [01:09:27]
 - [ ] [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** [01:18:20]
 - [ ] [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** [56:44]
-- [ ] [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** [44:12]
+- [x] [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** [44:12]
 
 #### Databases
 - [ ] [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
