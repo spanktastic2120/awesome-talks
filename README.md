@@ -149,7 +149,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [x] [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** [44:12]
 
 #### Databases
-- [ ] [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
+- [x] [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
 
 #### Security
 - [ ] [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by **James Mickens** [51:21]
